@@ -1,4 +1,4 @@
-# algebra_103_programs
+# algebra_103_programs :
 JavaScript Program To Print Hello World
 JavaScript Program to Add Two Numbers
 JavaScript Program to Find the Square Root
